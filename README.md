@@ -1,3 +1,4 @@
 # task
-this is my task
-print("ddd")
+this is my task\n
+fff
+print ('ff')
